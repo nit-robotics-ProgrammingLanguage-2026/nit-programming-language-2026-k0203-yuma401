@@ -2,6 +2,6 @@
 
 int main(void) 
 {
- printf("このノートは\ １０５円です。");
+ printf("このノートは\105円です。");
     return 0;
 }
